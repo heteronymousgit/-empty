@@ -21,4 +21,4 @@ by the byte value of the characters in their filenames and is not dependent on y
 Place update_letsencryptcert.sh in /opt/local/etc/letsencrypt/renewal-hooks/post 
 and of course make sure the script is executable.
 
-(Nothing that MacPorts using /opt/local as the base default location for binaries it installs).
+(Noting that MacPorts using /opt/local as the base default location for binaries it installs).
